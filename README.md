@@ -47,7 +47,7 @@
 
 <p align="center">
   <a href="https://www.hackerrank.com/priyanshubth6742">
-    <img src="https://leetcard.jacoblin.cool/priyanshu845438?theme=tokyonight" alt="HackerRank Stats">
+    <img src="https://leetcard.jacoblin.cool/priyanshu845438?theme=dark" alt="HackerRank Stats">
   </a>
 </p>
 
