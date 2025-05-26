@@ -1,22 +1,23 @@
-
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=45&pause=1000&color=38B2AC&center=true&vCenter=true&width=1000&height=80&lines=Hi%2C+I'm+Priyanshu+Raj!;Aspiring+Software+Developer+%F0%9F%92%BB;QA+Engineer+%7C+Backend+Developer+%7C+Tech+Explorer)](https://git.io/typing-svg)
 
 <div align="center">
-  <img src="https://i.gifer.com/7VE.gif" alt="Header Animation" style="width: 70%; border-radius: 12px;" />
+  <img src="https://i.gifer.com/7VE.gif" alt="Header Animation" style="width: 100%; border-radius: 12px;" />
 </div>
 
 <div align="center">
-  <img src="https://github.com/Priyanshu845438/Priyanshu845438/assets/74038190/35fb5ed0-c3c2-4c83-bfb3-e83c3f72059a" align="center" style="width: 100%;" />
+  <img src="https://github.com/Priyanshu845438/Priyanshu845438/assets/74038190/35fb5ed0-c3c2-4c83-bfb3-e83c3f72059a" align="center" style="width: 70%;" />
 </div>
 
 ---
 
+## 🧑‍💻 About Me
+
 <table>
   <tr>
     <td valign="top" width="60%">
-      <p>I am a student and an aspiring software developer with 1.6 years of professional experience as a QA Engineer. My expertise lies in manual and automation testing using tools like Appium, Katalon Studio, and TestProject.</p>
-      <p>I also have foundational knowledge in backend development using Node.js, MongoDB, and DevOps, alongside front-end experience in HTML, CSS, JavaScript, and React. I bring a unique combination of technical and business acumen, especially through my understanding of sales principles and cross-functional collaboration.</p>
-      <p>I aim to transition into backend development while leveraging my strong testing background to build scalable, secure, and high-quality systems.</p>
+      <p>I am an aspiring software developer with <strong>1.6+ years of experience</strong> as a QA Engineer, specializing in manual, functional, API, and automation testing using <strong>Katalon Studio, Appium, and TestProject</strong>.</p>
+      <p>I hold a solid foundation in web technologies like <strong>HTML, CSS, JavaScript, React.js</strong>, and backend technologies such as <strong>Node.js, Express.js, and MongoDB</strong>.</p>
+      <p>I'm transitioning into backend development, leveraging my testing expertise to build scalable and reliable software solutions. I thrive at the intersection of development and quality assurance, aiming to create robust, user-centered products.</p>
     </td>
     <td align="center" width="40%">
       <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280px" />
@@ -26,40 +27,77 @@
 
 ---
 
-### 📊 LeetCode Stats
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/priyanshu845438?ext=activity&theme=light" alt="LeetCode Stats">
-</p>
+## 🚀 Tech Snapshot
 
----
-
-## 🌐 Connect with Me
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/priyanshu-raj-b0b589203/"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
-  <a href="https://stackoverflow.com/users/24104664/priyanshu-raj"><img src="https://skillicons.dev/icons?i=stackoverflow" /></a>
-  <a href="mailto:priyanshubth6742@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
-  <a href="https://dev.to/akarshjha10"><img src="https://skillicons.dev/icons?i=devto" /></a>
-</p>
-
----
-
-## ⚡ Quick Stats
-
-- 💻 **Tech Stack**: MERN Stack, Android, IoT, Blockchain.
-- 🧠 **Tech Areas**: System Design, OS, Microprocessors, DevOps.
-- ✨ **UX/UI Focused**: Proficient with Figma, Framer, and Procreate.
-- 📈 **Learning**: High-frequency trading systems, Algo trading.
-- 🧩 **Soft Skills**: Cross-functional collaboration, Communication.
-- 🏆 **Achievements**: 15+ projects, 5+ tech blogs, certified badges.
-
----
-
-## 🧰 My Skill Set
+### 🧰 Skill Set
 
 | Languages | Frameworks & Libraries | Tools & Platforms |
 |----------|------------------------|-------------------|
-| <div align="center"><img src="https://skillicons.dev/icons?i=cpp,java,python,js,html,css,kotlin,ts,solidity" /></div> | <div align="center"><img src="https://skillicons.dev/icons?i=react,nodejs,express,tailwindcss,redux,fastapi,graphql,flask" /></div> | <div align="center"><img src="https://skillicons.dev/icons?i=git,github,postman,firebase,figma,vscode,mongodb,mysql,raspberrypi" /></div> |
+| ![Languages](https://skillicons.dev/icons?i=cpp,java,js,html,css,kotlin,sql) | ![Frameworks](https://skillicons.dev/icons?i=react,nodejs,express,tailwindcss,bootstrap) | ![Tools](https://skillicons.dev/icons?i=git,github,postman,vscode,mongodb,mysql,wordpress,shopify) |
+
+---
+
+### 🧪 Testing Stack
+
+- ✅ **Manual & Automation Testing**: Appium, Katalon Studio, TestProject, BrowserStack, pCloudy
+- 🔁 **API & Performance Testing**: Postman, JMeter
+- 🧩 **Testing Types**: Functional, Compatibility, Unit, Performance, UI, Mobile
+- 🔐 **QA Reporting & Monitoring**: Jira, TestRail, Slack Integration
+
+---
+
+## 📊 HackerRank Stats
+
+<p align="center">
+  <img src="https://camo.githubusercontent.com/92c7cf7c33adf90fc2e1147d18e2036f324ec604e23a243442dbabcc84a3d447/68747470733a2f2f6861636b657272616e6b2d6261646765732e76657263656c2e6170702f70726979616e736875383435343338" width="200" />
+</p>
+
+<p align="center">
+  <a href="https://www.hackerrank.com/priyanshubth6742">
+    <img src="https://github-readme-hackerrank-stats.vercel.app/api?husername=priyanshubth6742&theme=tokyonight&layout=compact" alt="HackerRank Stats">
+  </a>
+</p>
+
+---
+
+## 🏆 Achievements & Highlights
+
+- 🥇 Awarded by **Nestlé** for E-Learning Excellence.
+- 🥈 Completed 10+ certifications on **Great Learning** in Testing & Web Tech.
+- 🎓 Completed internships in **Software Testing, Web Development & IT Support**.
+- 💼 Contributed as a **Freelance Software Developer** for real-world clients.
+- 🌐 Built the **Donation Platform (All-in-One Solution)** as a final year project.
+
+---
+
+## 👨‍💼 Professional Experience
+
+### 💻 Freelance Software Developer – Acadify Solutions (2024–Present)
+- Tech Stack: HTML, CSS, WordPress, Kotlin, Shopify, Wix
+- Roles: Web Development, CMS, Cost & Resource Management
+
+### 🧪 QA Engineer – AppTestify (2021–2023)
+- Tech Stack: Katalon, TestProject, Appium, BrowserStack, Jira
+- Roles: Mobile Testing, Functional Testing, API Testing
+
+---
+
+## 👨‍🎓 Internships
+
+- **SGRGCore Pvt Ltd** – IT Support Engineer (May 2024)
+- **MarqSet Branding Pvt Ltd** – Web Developer (Apr–May 2024)
+
+---
+
+## 🎮 Fun Projects (Mini-Games)
+
+- 🟨 [Tetris in JavaScript](https://github.com/Priyanshu845438/Tetris-Game)
+- 🔢 [Guess The Number](https://github.com/Priyanshu845438/GuessTheNumber)
+- 🎮 [Snake & Ladder](https://github.com/Priyanshu845438/Snake-Ladder)
+- ❌⭕ [Tic Tac Toe](https://github.com/Priyanshu845438/Tic-Tac-Toe)
+- 🎨 [Colour Guess Game](https://github.com/Priyanshu845438/ColorGuessGame)
+
+> _Explore all at_: [Timepass_Games](https://github.com/Priyanshu845438?tab=repositories&q=Timepass_Games)
 
 ---
 
@@ -84,18 +122,21 @@
 
 ---
 
-## 🏅 Certified Achievements
-
-<div align="center">
-  <img src="https://github.com/Priyanshu845438/Priyanshu845438/assets/74038190/f12edcc0-b76b-4c55-89e0-e01ab580470a" width="220" />
-</div>
-
----
-
 ## 🐍 Snake Game Contribution Graph
 
-![Snake animation](https://github.com/Akarshjha03/Akarshjha03/blob/output/github-snake-dark.svg)
+![Snake animation](https://github.com/Priyanshu845438/Priyanshu845438/blob/output/github-snake-dark.svg)
 
 ---
 
-> 🚀 _"Every bug I fix makes me a better developer."_ — Priyanshu Raj
+## 🌐 Connect with Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/priyanshu-raj-b0b589203/"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+  <a href="https://stackoverflow.com/users/24104664/priyanshu-raj"><img src="https://skillicons.dev/icons?i=stackoverflow" /></a>
+  <a href="mailto:priyanshubth6742@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
+  <a href="https://github.com/Priyanshu845438"><img src="https://skillicons.dev/icons?i=github" /></a>
+</p>
+
+---
+
+> ✨ _"Every bug I fix makes me a better developer."_ — **Priyanshu Raj**
