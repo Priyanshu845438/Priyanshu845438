@@ -1,4 +1,5 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=45&pause=1000&color=38B2AC&center=true&vCenter=true&width=1000&height=80&lines=Hi%2C+I'm+Priyanshu+Raj!;Aspiring+Software+Developer+%F0%9F%92%BB;QA+Engineer+%7C+Backend+Developer+%7C+Tech+Explorer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&pause=1000&color=38B2AC&center=true&vCenter=true&width=800&height=60&lines=Hi%2C+I'm+Priyanshu+Raj!;Aspiring+Software+Developer+%F0%9F%92%BB;QA+Engineer+%7C+Backend+Developer+%7C+Tech+Explorer)](https://git.io/typing-svg)
+
 
 <div align="center">
   <img src="https://i.gifer.com/7VE.gif" alt="Header Animation" style="width: 100%; border-radius: 12px;" />
