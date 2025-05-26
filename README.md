@@ -5,12 +5,6 @@
   <img src="https://i.gifer.com/7VE.gif" alt="Header Animation" width="600" height="350" />
 </div>
 
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/235952112-52f91d42-2757-4e33-8fd6-2eb6db0c0b42.png" width="80%" alt="Priyanshu Raj Banner"/>
-</div>
-
-
 ---
 
 ## 🧑‍💻 About Me
