@@ -43,15 +43,11 @@
 
 ---
 
-## 📊 HackerRank Stats
-
-<p align="center">
-  <img src="https://camo.githubusercontent.com/92c7cf7c33adf90fc2e1147d18e2036f324ec604e23a243442dbabcc84a3d447/68747470733a2f2f6861636b657272616e6b2d6261646765732e76657263656c2e6170702f70726979616e736875383435343338" width="200" />
-</p>
+## 📊 LeetCode Stats
 
 <p align="center">
   <a href="https://www.hackerrank.com/priyanshubth6742">
-    <img src="https://github-readme-hackerrank-stats.vercel.app/api?husername=priyanshubth6742&theme=tokyonight&layout=compact" alt="HackerRank Stats">
+    <img src="https://leetcard.jacoblin.cool/priyanshu845438?theme=tokyonight" alt="HackerRank Stats">
   </a>
 </p>
 
@@ -121,7 +117,9 @@
 
 ## 🐍 Snake Game Contribution Graph
 
-![Snake animation](https://github.com/Priyanshu845438/Priyanshu845438/blob/output/github-snake-dark.svg)
+![Snake animation](https://github.com/Akarshjha03/Akarshjha03/blob/output/github-snake-dark.svg)
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="full">
 
 ---
 
