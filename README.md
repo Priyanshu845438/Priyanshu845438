@@ -7,8 +7,9 @@
 
 
 <div align="center">
-  <img src="https://github.com/Priyanshu845438/Priyanshu845438/assets/74038190/35fb5ed0-c3c2-4c83-bfb3-e83c3f72059a" align="center" style="width: 70%;" />
+  <img src="https://user-images.githubusercontent.com/74038190/235952112-52f91d42-2757-4e33-8fd6-2eb6db0c0b42.png" width="80%" alt="Priyanshu Raj Banner"/>
 </div>
+
 
 ---
 
