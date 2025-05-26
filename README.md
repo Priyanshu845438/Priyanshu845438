@@ -2,8 +2,9 @@
 
 
 <div align="center">
-  <img src="https://i.gifer.com/7VE.gif" alt="Header Animation" style="width: 100%; border-radius: 12px;" />
+  <img src="https://i.gifer.com/7VE.gif" alt="Header Animation" width="600" height="350" />
 </div>
+
 
 <div align="center">
   <img src="https://github.com/Priyanshu845438/Priyanshu845438/assets/74038190/35fb5ed0-c3c2-4c83-bfb3-e83c3f72059a" align="center" style="width: 70%;" />
