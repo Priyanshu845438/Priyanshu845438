@@ -82,13 +82,13 @@
 
 ---
 
-## 🎮 Fun Projects (Mini-Games)
+## 🚀 Featured Projects
 
-- 🟨 [Tetris in JavaScript](https://github.com/Priyanshu845438/Tetris-Game)
-- 🔢 [Guess The Number](https://github.com/Priyanshu845438/GuessTheNumber)
-- 🎮 [Snake & Ladder](https://github.com/Priyanshu845438/Snake-Ladder)
-- ❌⭕ [Tic Tac Toe](https://github.com/Priyanshu845438/Tic-Tac-Toe)
-- 🎨 [Colour Guess Game](https://github.com/Priyanshu845438/ColorGuessGame)
+| Project | Description | Tech Stack | Link |
+| --- | --- | --- | --- |
+| [Donation Platform](https://github.com/Priyanshu845438/donation-platform) | Full-stack MERN donation app with payment gateway integration. | React, Node.js, Express, MongoDB, Cashfree | [Repo](https://github.com/Priyanshu845438/donation-platform) |
+| [Timepass Games](https://github.com/Priyanshu845438/timepass_games) | Fun JavaScript games including Tic Tac Toe, Snake, Tetris, and more. | JavaScript, HTML, CSS | [Repo](https://github.com/Priyanshu845438/timepass_games) |
+| [Nitin Estate](https://github.com/Priyanshu845438/Nitin-Estate) | Real estate website built with WordPress focusing on construction and property listings. | JavaScript, PHP, CSS, HTML | [Repo](https://github.com/Priyanshu845438/Nitin-Estate) |
 
 > _Explore all at_: [Timepass_Games](https://github.com/Priyanshu845438?tab=repositories&q=Timepass_Games)
 
