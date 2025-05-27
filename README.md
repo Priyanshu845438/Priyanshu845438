@@ -9,18 +9,27 @@
 
 ## 🧑‍💻 About Me
 
-<table>
-  <tr>
-    <td valign="top" width="60%">
-      <p>I am an aspiring software developer with <strong>1.6+ years of experience</strong> as a QA Engineer, specializing in manual, functional, API, and automation testing using <strong>Katalon Studio, Appium, and TestProject</strong>.</p>
-      <p>I hold a solid foundation in web technologies like <strong>HTML, CSS, JavaScript, React.js</strong>, and backend technologies such as <strong>Node.js, Express.js, and MongoDB</strong>.</p>
-      <p>I'm transitioning into backend development, leveraging my testing expertise to build scalable and reliable software solutions. I thrive at the intersection of development and quality assurance, aiming to create robust, user-centered products.</p>
-    </td>
-    <td align="center" width="40%">
-      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280px" />
-    </td>
-  </tr>
-</table>
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center; gap: 20px; text-align: left;">
+
+  <div style="flex: 1 1 300px; max-width: 600px;">
+    <p>
+      I am an aspiring software developer with <strong>1.6+ years of experience</strong> as a QA Engineer, specializing in manual, functional, API, and automation testing using <strong>Katalon Studio, Appium, and TestProject</strong>.
+    </p>
+    <p>
+      I hold a solid foundation in web technologies like <strong>HTML, CSS, JavaScript, React.js</strong>, and backend technologies such as <strong>Node.js, Express.js, and MongoDB</strong>.
+    </p>
+    <p>
+      I'm transitioning into backend development, leveraging my testing expertise to build scalable and reliable software solutions. I thrive at the intersection of development and quality assurance, aiming to create robust, user-centered products.
+    </p>
+  </div>
+
+  <div style="flex: 1 1 280px; max-width: 400px;">
+    <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Developer GIF" style="max-width: 100%; height: auto; border-radius: 12px;" />
+  </div>
+
+</div>
+
+
 
 ---
 
