@@ -5,6 +5,9 @@
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2lxdjN1a2QxOGZ0em9sNHBpNTZ4cHl5N280N2t5c2gxZWJqam13NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xUPGcEliCc7bETyfO8/giphy.gif" alt="Header Animation" width="100%" height="450" />
 </div>
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME)](https://github.com/ryo-ma/github-profile-trophy)
+
+
 ---
 
 ## 🧑‍💻 About Me
