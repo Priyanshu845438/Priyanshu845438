@@ -11,6 +11,13 @@
 
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center; gap: 20px; text-align: left;">
 
+  <!-- GIF on the left -->
+<!--  <div style="flex: 1 1 280px; max-width: 400px;">
+    <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Developer GIF" style="max-width: 100%; height: auto; border-radius: 12px;" />
+  </div> 
+  -->
+
+  <!-- Text on the right -->
   <div style="flex: 1 1 300px; max-width: 600px;">
     <p>
       I am an aspiring software developer with <strong>1.6+ years of experience</strong> as a QA Engineer, specializing in manual, functional, API, and automation testing using <strong>Katalon Studio, Appium, and TestProject</strong>.
@@ -23,9 +30,7 @@
     </p>
   </div>
 
-  <div style="flex: 1 1 280px; max-width: 400px;">
-    <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Developer GIF" style="max-width: 100%; height: auto; border-radius: 12px;" />
-  </div>
+</div>
 
 </div>
 
