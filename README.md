@@ -888,9 +888,6 @@ console.log("Get ready for an amazing year! 🎉");
 </tr>
 </table>
 
-### **🔥 Repository Analytics**
-<img src="https://repobeats.axiom.co/api/embed/8e1b5c5c5d5e5f5g5h5i5j5k5l5m5n5o5p5q5r5s.svg" alt="Repository Analytics">
-
 ### **🔍 Explore My Complete Portfolio**
 <a href="https://github.com/Priyanshu845438?tab=repositories">
 <img src="https://img.shields.io/badge/🚀%20View%20All%20Repositories-Explore%20Now-100000?style=for-the-badge&logo=github&logoColor=white" alt="All Repositories"/>
