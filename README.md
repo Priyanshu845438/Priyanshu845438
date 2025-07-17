@@ -520,8 +520,48 @@ console.log("Thanks for visiting my profile! 🎉");
 ### **📈 Advanced Activity Graph**
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Priyanshu845438&bg_color=0D1117&color=FF6B6B&line=00D4FF&point=FFD700&area=true&hide_border=true&custom_title=Priyanshu's%20Contribution%20Graph" alt="Activity Graph"/>
 
-### **🎯 Coding Time Tracker**
-<img src="https://wakatime.com/share/@priyanshu845438/8f4dc896-feda-4b38-b58e-a1a4b90b8a6e.svg" alt="Coding Time"/>
+### **⏰ Coding Time & Development Metrics**
+<table>
+<tr>
+<td align="center" width="50%">
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=priyanshu845438&theme=radical&layout=compact&langs_count=6&border_radius=10&bg_color=0D1117&title_color=FF6B6B&text_color=FFFFFF" alt="Coding Time Stats"/>
+</td>
+<td align="center" width="50%">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Priyanshu845438&theme=radical&utc_offset=5.5" alt="Productive Time"/>
+</td>
+</tr>
+</table>
+
+<div align="center">
+<table>
+<tr>
+<td align="center" width="25%">
+<img src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" width="50px" height="50px">
+<br><strong>⏰ Daily Coding</strong>
+<br><sub>4-6 Hours</sub>
+<br><img src="https://img.shields.io/badge/Avg%20Daily-5hrs-blue?style=for-the-badge"/>
+</td>
+<td align="center" width="25%">
+<img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="50px" height="50px">
+<br><strong>📅 Weekly Goal</strong>
+<br><sub>30+ Hours</sub>
+<br><img src="https://img.shields.io/badge/Weekly-35hrs-green?style=for-the-badge"/>
+</td>
+<td align="center" width="25%">
+<img src="https://user-images.githubusercontent.com/74038190/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif" width="50px" height="50px">
+<br><strong>📊 Languages</strong>
+<br><sub>JavaScript 45%</sub>
+<br><img src="https://img.shields.io/badge/Primary-JS-yellow?style=for-the-badge"/>
+</td>
+<td align="center" width="25%">
+<img src="https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif" width="50px" height="50px">
+<br><strong>🔥 Current Streak</strong>
+<br><sub>15 Days</sub>
+<br><img src="https://img.shields.io/badge/Streak-15%20Days-orange?style=for-the-badge"/>
+</td>
+</tr>
+</table>
+</div>
 
 ### **🌟 Repository Spotlight**
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=Priyanshu845438&repo=Donation-Platform&theme=radical&bg_color=0D1117&title_color=FF6B6B&text_color=FFFFFF&icon_color=00D4FF" alt="Featured Repo 1"/>
