@@ -17,27 +17,7 @@
 <div align="center">
 <table width="100%">
 <tr>
-<td align="center" width="33.33%">
-
-### **Professional Summary**
-```javascript
-const developer = {
-  name: "Priyanshu Raj",
-  role: "Full Stack Developer",
-  location: "Gujarat, India 🇮🇳",
-  experience: "1.6+ years in QA",
-  specialization: [
-    "MERN Stack Development",
-    "Mobile App Development", 
-    "Quality Assurance",
-    "API Development"
-  ],
-  currentStatus: "Open to opportunities"
-};
-```
-
-</td>
-<td align="center" width="33.33%">
+<td align="center" width="50%">
 
 ### **Key Achievements**
 ```javascript
@@ -54,7 +34,7 @@ const achievements = {
 ```
 
 </td>
-<td align="center" width="33.33%">
+<td align="center" width="50%">
 
 ### **Core Values**
 ```javascript
