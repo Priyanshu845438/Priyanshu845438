@@ -233,25 +233,6 @@ const coreValues = {
 
 ---
 
-### **Innovation & Impact**
-<div align="left">
-
-- **AI/ML Integration** in production applications
-- **Real-time Features** using WebSocket technology
-- **Progressive Web Apps** for enhanced user experience
-- **Automated Testing** pipelines for quality assurance
-- **Security Implementation** with encryption and authentication
-- **Open Source Contributions** to developer community
-
-</div>
-</td>
-</tr>
-</table>
-
-</div>
-
----
-
 ## 🤝 Let's Connect
 
 <div align="center">
