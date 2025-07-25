@@ -233,44 +233,6 @@ const coreValues = {
 
 ---
 
-## 🏆 Project Highlights
-
-<div align="center">
-
-<table width="100%">
-<tr>
-<td align="center" width="33.33%">
-
-### **Development Excellence**
-<div align="left">
-
-- **10+ Complete Projects** delivered with 100% client satisfaction
-- **MERN Stack Expertise** with modern development practices
-- **Mobile Development** using Flutter and native Android
-- **API Integration** and third-party service implementations
-- **Responsive Design** with mobile-first approach
-- **Clean Code Architecture** following industry standards
-
-</div>
-
-</td>
-<td align="center" width="33.33%">
-
-### **Technical Achievements**
-<div align="left">
-
-- **Cross-Platform Solutions** for web and mobile
-- **Performance Optimization** reducing load times by 50%
-- **Database Design** for scalable applications
-- **Version Control** with Git and collaborative workflows
-- **Testing Implementation** ensuring 95% code coverage
-- **Cloud Deployment** on AWS and Firebase
-
-</div>
-
-</td>
-<td align="center" width="33.33%">
-
 ### **Innovation & Impact**
 <div align="left">
 
