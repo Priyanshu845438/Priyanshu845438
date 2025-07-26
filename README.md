@@ -22,8 +22,7 @@
 ### **Key Achievements**
 ```javascript
 const achievements = {
-  hackathonWins: "AI/ML Hackathon Winner 🏆",
-  qaExperience: "1.6+ Years QA Experience 🔬",
+  qaExperience: "2+ Years QA Experience 🔬",
   freelanceProjects: "10+ Freelance Projects 💼",
   expertise: "Cross-Platform Developer 📱",
   education: "B.Tech CSE Student 🎓",
