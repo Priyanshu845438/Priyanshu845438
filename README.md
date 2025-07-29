@@ -12,7 +12,7 @@
 
 ---
 
-## 👨‍💻 About Me
+## 👨‍💻 know Me
 
 <div align="center">
 <table width="100%">
