@@ -169,8 +169,9 @@ const coreValues = {
 <img src="https://github-readme-stats.vercel.app/api?username=Priyanshu845438&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2F81F7&icon_color=2F81F7&text_color=C9D1D9&ring_color=2F81F7" alt="GitHub Stats" width="100%"/>
 </td>
 <td align="center" width="33.33%">
-<img src="https://github-readme-streak-stats.herokuapp.com?user=Priyanshu845438&theme=tokyonight&hide_border=true&background=0D1117&stroke=2F81F7&ring=2F81F7&fire=FF6B6B&currStreakLabel=2F81F7" alt="GitHub Streak" width="100%"/>
+  <img src="https://streak-stats.demolab.com/?user=Priyanshu845438&theme=tokyonight&hide_border=true&background=0D1117&stroke=2F81F7&ring=2F81F7&fire=FF6B6B&currStreakLabel=2F81F7" alt="GitHub Streak" width="100%"/>
 </td>
+
 <td align="center" width="33.33%">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Priyanshu845438&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2F81F7&text_color=C9D1D9" alt="Top Languages" width="100%"/>
 </td>
