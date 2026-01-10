@@ -2,7 +2,7 @@
 <div align="center">
 
 # **Priyanshu Raj** 
-### QA Engineer → Full Stack Developer
+### QA Engineer → Full Stack Developer → AI Trainer
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3000&pause=1000&color=2F81F7&center=true&vCenter=true&width=500&lines=MERN+Stack+Developer;Mobile+App+Developer;Quality+Assurance+Engineer;Building+Scalable+Solutions)](https://git.io/typing-svg)
 
