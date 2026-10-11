@@ -1,93 +1,57 @@
-<div align="center">
+# Priyanshu Raj
 
-# 👋 Hi, I'm Priyanshu Raj
+### AI Application Developer · Full-Stack Development · Data & Quality
 
-### Data Engineer • RAG & LLM Engineer • Prompt Engineer
+I build practical AI workflows that connect language models, business data and web applications. My background in data analysis, backend development and software QA helps me approach both implementation and validation.
 
-<p>
-  <strong>
-    Building reliable data pipelines, RAG systems, LLM workflows,
-    AI evaluation solutions, and production-grade software.
-  </strong>
-</p>
-
-<p>
-  <a href="https://i-priyanshu.netlify.app/">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-00E599?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
-  </a>
-  <a href="https://www.linkedin.com/in/priyanshu-raj-b0b589203">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://leetcode.com/priyanshu845438">
-    <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/>
-  </a>
-  <a href="mailto:priyanshubth6742@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-</p>
-
-<p>
-  <img src="https://komarev.com/ghpvc/?username=Priyanshu845438&style=for-the-badge&color=0e75b6" alt="Profile Views"/>
-</p>
-
-</div>
+[**Explore my portfolio →**](https://priyanshu-raj-portfolio.i-rajsingh.chatgpt.site/) · [LinkedIn](https://www.linkedin.com/in/priyanshu-raj-b0b589203/) · [LeetCode](https://leetcode.com/priyanshu845438)
 
 ---
 
-## 🚀 About Me
+## What I work on
 
-I'm a **Data Engineer and AI-focused Software Engineer** working across data engineering, RAG, LLM applications, prompt engineering, AI evaluation, backend development, and quality engineering.
+- **LLM applications:** retrieval-augmented generation (RAG), prompt engineering, GPT fine-tuning workflows and AI response evaluation.
+- **Full-stack development:** web interfaces, backend features and REST API integrations with Next.js, TypeScript, JavaScript and Node.js.
+- **Data analysis:** SQL queries, data cleaning, validation, investigation of inconsistencies and analytics reporting.
+- **Software quality:** functional, regression and API testing; evaluating accuracy, relevance, consistency and edge cases in AI outputs.
 
-My engineering background combines **data, software development, AI systems, and QA**, allowing me to work across the complete lifecycle of modern AI and data-driven applications.
+My official role is **Data Analyst**, alongside assigned AI application development responsibilities. I use AI-assisted coding with code review, debugging and testing as part of the development process.
 
-### What I currently focus on
+## Selected public work
 
-- 🔹 Designing and developing **data pipelines and ETL workflows**
-- 🔹 Building **RAG (Retrieval-Augmented Generation) systems**
-- 🔹 Developing **LLM-powered applications and AI workflows**
-- 🔹 Engineering and optimizing **prompts and context strategies**
-- 🔹 Evaluating **LLM responses, reliability, accuracy, and hallucination**
-- 🔹 Working with **SQL, Python, data transformation, and data modeling**
-- 🔹 Developing **backend APIs and scalable application services**
-- 🔹 Applying **QA and testing principles to AI and software systems**
-- 🔹 Building production-oriented systems with reliability and maintainability in mind
+| Project | Focus |
+| :--- | :--- |
+| [**OmniWorkspace**](https://github.com/Priyanshu845438/OmniWorkspace) | Open-source, model-agnostic AI workspace for coding, research, data analysis and automation. |
+| [**AI Evals Framework**](https://github.com/AcadifySolution/ai-evals-framework) | Organization project I contribute to: evaluating LLM responses against reference datasets and context. |
+| [**Chatbot App**](https://github.com/Priyanshu845438/chatbot-app) | Web-based AI chatbot with a React interface and Node.js API integrations. |
+| [**Telegram AI**](https://github.com/Priyanshu845438/Telegram__AI) | Python chatbot integrating a language-model API with Telegram. |
+| [**PDF → Markdown Converter**](https://github.com/Priyanshu845438/PDF-MarkDown_Converter) | Python document-conversion tool for extracting Markdown from PDFs. |
+| [**Donation Platform Backend**](https://github.com/Priyanshu845438/Backend-Donation) | Node.js and Express REST API with MongoDB, authentication and campaign/donation endpoints. |
 
----
+Explore each repository for its implementation, setup instructions and current scope.
 
-## 🧠 Current Engineering Focus
+## Tools & technical areas
 
-```text
-┌───────────────────────────────────────────────────────────────┐
-│                       AI & DATA ENGINEERING                   │
-├───────────────────────────────────────────────────────────────┤
-│                                                               │
-│   Data Engineering                                            │
-│        │                                                      │
-│        ├── ETL / ELT                                          │
-│        ├── SQL & Data Modeling                                │
-│        ├── Data Transformation                                │
-│        └── Data Quality                                       │
-│                                                               │
-│   RAG & LLM Systems                                            │
-│        │                                                      │
-│        ├── Document Processing                                │
-│        ├── Retrieval                                          │
-│        ├── Context Engineering                                │
-│        ├── Prompt Engineering                                 │
-│        └── LLM Evaluation                                     │
-│                                                               │
-│   Software Engineering                                        │
-│        │                                                      │
-│        ├── Backend APIs                                       │
-│        ├── Databases                                          │
-│        ├── Microservices                                      │
-│        └── System Design                                      │
-│                                                               │
-│   Quality Engineering                                         │
-│        │                                                      │
-│        ├── API Testing                                        │
-│        ├── Automation                                          │
-│        ├── Regression Testing                                 │
-│        └── AI System Validation                               │
-│                                                               │
-└───────────────────────────────────────────────────────────────┘
+| Area | Tools and practice |
+| :--- | :--- |
+| Application development | TypeScript, JavaScript, Next.js, React, Node.js, Express, REST APIs |
+| Data & databases | SQL, Python, PostgreSQL, MongoDB, data cleaning and validation |
+| Applied AI | LLM integrations, RAG, prompt engineering, GPT fine-tuning, AI evaluation |
+| Testing | Postman, functional testing, regression testing, API testing |
+
+## Currently learning & implementing
+
+- Vector search and retrieval using **PostgreSQL + pgvector**.
+- Evaluating how retrieved context affects LLM response quality.
+- Connecting AI features with business workflows and maintainable application code.
+
+## My approach
+
+Understand the requirement → prepare the data → build the integration → review the code → test the behaviour → refine the result.
+
+## Connect
+
+I'm focused on **AI Engineer, Generative AI Developer and AI application development opportunities**, with remote work preferred. I also welcome collaboration on practical AI tools and full-stack applications.
+
+- [Portfolio — selected work and professional background](https://priyanshu-raj-portfolio.i-rajsingh.chatgpt.site/)
+- [LinkedIn — professional updates and contact](https://www.linkedin.com/in/priyanshu-raj-b0b589203/)
