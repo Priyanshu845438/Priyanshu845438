@@ -4,7 +4,7 @@
 
 I build practical AI workflows that connect language models, business data and web applications. My background in data analysis, backend development and software QA helps me approach both implementation and validation.
 
-[**Explore my portfolio →**](https://priyanshu-raj-portfolio.i-rajsingh.chatgpt.site/) · [LinkedIn](https://www.linkedin.com/in/priyanshu-raj-b0b589203/) · [LeetCode](https://leetcode.com/priyanshu845438)
+[**Explore my portfolio →**](https://priyanshu-raj-portfolio.i-rajsingh.chatgpt.site/) · [LinkedIn](https://www.linkedin.com/in/priyanshu-raj-b0b589203/) · [LeetCode](https://leetcode.com/priyanshu845438) · [Wikipedia user profile](https://en.wikipedia.org/wiki/User:Know.priyanshu)
 
 ---
 
