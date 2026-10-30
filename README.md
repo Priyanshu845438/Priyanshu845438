@@ -4,7 +4,7 @@
 
 I build practical AI workflows that connect language models, business data and web applications. My background in data analysis, backend development and software QA helps me approach both implementation and validation.
 
-[**Explore my portfolio →**](https://priyanshu-raj-portfolio.i-rajsingh.chatgpt.site/) · [LinkedIn](https://www.linkedin.com/in/priyanshu-raj-b0b589203/) · [LeetCode](https://leetcode.com/priyanshu845438) · [Wikipedia user profile](https://en.wikipedia.org/wiki/User:Know.priyanshu)
+[**Explore my portfolio →**](https://portfolio.i-priyanshu.chatgpt.site/) · [LinkedIn](https://www.linkedin.com/in/priyanshu-raj-b0b589203/) · [LeetCode](https://leetcode.com/priyanshu845438) · [Wikipedia user profile](https://en.wikipedia.org/wiki/User:Know.priyanshu)
 
 ---
 
@@ -53,5 +53,6 @@ Understand the requirement → prepare the data → build the integration → re
 
 I'm focused on **AI Engineer, Generative AI Developer and AI application development opportunities**, with remote work preferred. I also welcome collaboration on practical AI tools and full-stack applications.
 
-- [Portfolio — selected work and professional background](https://priyanshu-raj-portfolio.i-rajsingh.chatgpt.site/)
+- [Portfolio — selected work and professional background](https://portfolio.i-priyanshu.chatgpt.site/)
 - [LinkedIn — professional updates and contact](https://www.linkedin.com/in/priyanshu-raj-b0b589203/)
+
